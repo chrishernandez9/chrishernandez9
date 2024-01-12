@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-<b>Azure / Cloud Projects</b>
+<b>Cloud Projects</b>
   - [Creating a live SOC / Honeynet within Azure](https://github.com/chrishernandez9/Cloud-SOC)
 
 <h2> Interesting Articles </h2>
