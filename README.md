@@ -11,6 +11,7 @@
 
 - [The Mastermind Behind the Stuxnet Virus](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
 - [NIST Warnings on Threat Actors Altering AI](https://cybernews.com/security/nist-ai-systems-cyberattacks/)
+- [Rasberry Mod 5 in Development](https://www.tomshardware.com/raspberry-pi/raspberry-pi-compute-module-5-confirmed-by-ceo-eben-upton)
 
 
 <h2> Socials: </h2>
