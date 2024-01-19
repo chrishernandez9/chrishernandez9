@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-<b>Cloud Projects</b>
+<b>Cloud Projects </b>
   - [Creating a live SOC / Honeynet within Azure](https://github.com/chrishernandez9/Cloud-SOC)
   - [Install osTicket in Azure](https://github.com/chrishernandez9/Install-osTicket-From-Scratch)
 
