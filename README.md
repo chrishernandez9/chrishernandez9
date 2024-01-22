@@ -4,7 +4,7 @@
 
 <b>Cloud Projects </b>
   - [Creating a live SOC / Honeynet within Azure](https://github.com/chrishernandez9/Cloud-SOC)
-  - [Install osTicket in Azure](https://github.com/chrishernandez9/Install-osTicket-From-Scratch)
+  - [osTicket Client Creation in Azure](https://github.com/chrishernandez9/Install-osTicket-From-Scratch)
 
 
 <h2> Interesting Articles </h2>
@@ -12,6 +12,7 @@
 - [The Mastermind Behind the Stuxnet Virus](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
 - [NIST Warnings on Threat Actors Altering AI](https://cybernews.com/security/nist-ai-systems-cyberattacks/)
 - [Rasberry Mod 5 in Development](https://www.tomshardware.com/raspberry-pi/raspberry-pi-compute-module-5-confirmed-by-ceo-eben-upton)
+- [Hacking the Apple ID](https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41)
 
 
 <h2> Socials: </h2>
